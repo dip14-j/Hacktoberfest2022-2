@@ -27,3 +27,4 @@ int amount;
       cout << "No of 1 Rupee notes required are=" << RS10 << endl;
    }
 }
+
